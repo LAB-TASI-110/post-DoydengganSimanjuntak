@@ -1,0 +1,12 @@
+nah jadi tolong dong bantu aku mengerjakan soal pemrograman bahasa c atau java ini hingga mendapat kan output yang saya harapkan nah jadi ini tidak pakai alat bantu sama sekali nah jadi nama class nya disini buat kan Driver1.java nah jadi input nya itu seperti ini MDN 5 JKT 3 BLG 4 END nah jadi output yang saya harapkan itu seperti ini Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh, kerjakan dong
+Microsoft Windows [Version 10.0.22631.6060]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ASUS\Documents\GitHub\post-DoydengganSimanjuntak>javac Driver1.java
+error: file not found: Driver1.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+
+C:\Users\ASUS\Documents\GitHub\post-DoydengganSimanjuntak>  pas saya menjalankan atau pas saya mengkompile yang terjadi seperti ini nah tolong dong apa yang salah disitu
+jadi cara mengkompile yang benar ?
+ini kok masih salah apa yang salah dalam mengkompile atau menjalankan nya hingga eror

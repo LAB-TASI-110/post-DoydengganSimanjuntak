@@ -1,0 +1,6 @@
+nah jadi kerjakan dong soal pemrograman bahasa c atau java ini hingga mendapatkan input dan output nya nah jadi nama fili atau nama class nya itu Driver3.java nah jadi buat kan juga kode model nya nah buat kan dong yang bagus tanpa mendapatkan eror pasa di kompile
+
+sory nama model nya itu harus nya Model3.java
+
+input output nya
+?
